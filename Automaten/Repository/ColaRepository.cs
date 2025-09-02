@@ -19,7 +19,7 @@ namespace Automaten.Repository
                 new Cola("Coca-Cola", 15),
                 new Cola("Fanta", 20),
                 new Cola("Sprite", 20),
-                new Cola("Faxe kondi", 20)
+                new Cola("Faxe Kondi", 20)
 
             };
 
