@@ -6,19 +6,18 @@ using System.Threading.Tasks;
 
 namespace Automaten
 {
-    internal class Product
+    internal class Cola
     {
         public string Name { get; set; }
-        public double Price { get; set; }
+        public int Price { get; set; }
 
-        public Product(string name, double price)
+        public Cola(string name, int price)
         {
             Name = name;
             Price = price;
         }
 
-        public void GetProduct();
-
-
+        
+        
     }
 }
