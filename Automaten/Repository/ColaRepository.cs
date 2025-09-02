@@ -17,7 +17,7 @@ namespace Automaten.Repository
             _colaliste = new List<Cola>
             {
                 new Cola("Coca-Cola", 15),
-                new Cola("Fanta", 15),
+                new Cola("Fanta", 20),
                 new Cola("Sprite", 20),
                 new Cola("Faxe kondi", 20)
 
